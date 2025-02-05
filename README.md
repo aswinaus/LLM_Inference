@@ -1,2 +1,2 @@
 # LLM_Inference
-LLM Inference with RAG and Evanulate
+LLM Inference with RAG and Evaluate
